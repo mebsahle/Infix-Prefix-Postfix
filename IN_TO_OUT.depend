@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1552237362 source:c:\users\icpc\documents\in_to_out\main.cpp
+	<bits/stdc++.h>
+	"Stack.h"
+
+1552236008 source:c:\users\icpc\documents\in_to_out\src\stack.cpp
+	"Stack.h"
+
+1552235804 c:\users\icpc\documents\in_to_out\include\stack.h
+
+1552236010 source:c:\users\mebat\desktop\myprojects\assignment i\in_to_out\src\stack.cpp
+	"Stack.h"
+
+1552235806 c:\users\mebat\desktop\myprojects\assignment i\in_to_out\include\stack.h
+
